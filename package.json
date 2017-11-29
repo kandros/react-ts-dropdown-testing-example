@@ -13,7 +13,9 @@
     "start": "react-scripts-ts start",
     "build": "react-scripts-ts build",
     "test": "react-scripts-ts test --env=jsdom",
-    "eject": "react-scripts-ts eject"
+    "eject": "react-scripts-ts eject",
+    "predeploy": "yarn build",
+    "deploy": "./deploy.sh"
   },
   "devDependencies": {
     "@types/enzyme-adapter-react-16": "^1.0.1",
