@@ -1,0 +1,27 @@
+{
+  "name": "react-dropdown-testing-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bulma": "^0.6.1",
+    "raf": "^3.4.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts-ts": "2.8.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/enzyme-adapter-react-16": "^1.0.1",
+    "@types/jest": "^21.1.8",
+    "@types/node": "^8.0.53",
+    "@types/react": "^16.0.25",
+    "@types/react-dom": "^16.0.3",
+    "enzyme": "^3.2.0",
+    "enzyme-adapter-react-16": "^1.1.0"
+  }
+}

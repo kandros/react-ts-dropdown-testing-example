@@ -1,0 +1,13 @@
+.wrapper {
+  position: relative;
+}
+.trigger {
+  cursor: pointer;
+  display: inline-block;
+}
+
+.dropdown-content {
+  position: absolute;
+  width: 120px;
+  height: 300px;
+}
