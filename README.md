@@ -10,7 +10,7 @@ https://react-ts-dropdown-testing-example.now.sh
 ## stack
 
 React\
-Typescript\
+TypeScript\
 Jest\
 Enzyme
 
